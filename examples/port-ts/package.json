@@ -5,7 +5,7 @@
     "@types/node": "^18"
   },
   "dependencies": {
-    "@pulumi/pulumi": "3.119.0",
+    "@pulumi/pulumi": "3.126.0",
     "@port-labs/port": "2.0.0"
   }
 }
