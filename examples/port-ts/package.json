@@ -6,6 +6,6 @@
   },
   "dependencies": {
     "@pulumi/pulumi": "3.119.0",
-    "@port-labs/port": "2.0.0"
+    "@port-labs/port": "2.0.12"
   }
 }
